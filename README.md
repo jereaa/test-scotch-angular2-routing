@@ -1,7 +1,8 @@
 # ScotchAngular2Routing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
-Guide steps at [Scotch.io](https://scotch.io/courses/routing-angular-2-applications)
+
+Guide steps at [Scotch.io](https://scotch.io/courses/routing-angular-2-applications).
 
 ## Development server
 
